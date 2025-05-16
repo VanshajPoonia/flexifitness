@@ -102,7 +102,7 @@ const Membership = () => {
               MEMBERSHIP <span className="text-ffl-orange">BENEFITS</span>
             </h3>
             <p className="max-w-3xl mx-auto text-gray-300 mt-6">
-              FFL Gym membership offers more than just access to equipment. Join our fitness family and enjoy these exclusive benefits.
+              Flextime Fitness Gym membership offers more than just access to equipment. Join our fitness family and enjoy these exclusive benefits.
             </p>
           </div>
           
@@ -136,7 +136,7 @@ const Membership = () => {
               {
                 icon: "🔄",
                 title: "Guest Privileges",
-                description: "Bring friends and family to experience FFL Gym with guest passes."
+                description: "Bring friends and family to experience Flextime Fitness Gym with guest passes."
               },
             ].map((benefit, index) => (
               <div key={index} className="neuro-flat p-6 hover:shadow-neuro-orange transition-shadow duration-300">
@@ -166,11 +166,11 @@ const Membership = () => {
             <Accordion type="single" collapsible className="space-y-4">
               {[
                 {
-                  question: "How do I join FFL Gym?",
-                  answer: "Joining FFL Gym is easy! You can sign up online through our website, use our mobile app, or visit any FFL location in person. Our staff will guide you through the membership options and help you choose the plan that best fits your needs."
+                  question: "How do I join Flextime Fitness Gym?",
+                  answer: "Joining Flextime Fitness Gym is easy! You can sign up online through our website, use our mobile app, or visit any Flextime Fitness location in person. Our staff will guide you through the membership options and help you choose the plan that best fits your needs."
                 },
                 {
-                  question: "Can I try FFL Gym before committing to a membership?",
+                  question: "Can I try Flextime Fitness Gym before committing to a membership?",
                   answer: "Absolutely! We offer a free one-week trial to all new members. This allows you to experience our facilities, classes, and community before making a commitment. Simply sign up for the free trial on our website or visit a location near you."
                 },
                 {
@@ -186,8 +186,8 @@ const Membership = () => {
                   answer: "You can cancel your membership by visiting your home gym location or through our mobile app. We require a 30-day notice for all cancellations. Any unused personal training sessions or class credits will remain valid for 60 days after cancellation."
                 },
                 {
-                  question: "Can I use other FFL Gym locations with my membership?",
-                  answer: "Yes! All our memberships include access to any FFL Gym location worldwide. Whether you're traveling for business or pleasure, you can maintain your fitness routine at any of our 100+ facilities around the globe."
+                  question: "Can I use other Flextime Fitness Gym locations with my membership?",
+                  answer: "Yes! All our memberships include access to any Flextime Fitness Gym location worldwide. Whether you're traveling for business or pleasure, you can maintain your fitness routine at any of our 100+ facilities around the globe."
                 },
               ].map((faq, index) => (
                 <AccordionItem key={index} value={`item-${index}`} className="border border-gray-700 rounded-lg">
@@ -211,7 +211,7 @@ const Membership = () => {
             START YOUR <span className="text-ffl-orange">FITNESS JOURNEY</span> TODAY
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto mb-10">
-            Join thousands of members who have transformed their lives with FFL Gym. Begin with a free one-week trial and experience the difference.
+            Join thousands of members who have transformed their lives with Flextime Fitness Gym. Begin with a free one-week trial and experience the difference.
           </p>
           <Button className="neuro-button-primary px-8 py-6 text-lg" size="lg">
             Start Your Free Trial <ArrowRight className="ml-2" />

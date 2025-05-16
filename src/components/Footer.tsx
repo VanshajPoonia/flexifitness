@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-ffl-orange rounded-sm flex items-center justify-center">
                 <span className="font-montserrat font-bold text-white">F</span>
               </div>
-              <span className="font-montserrat font-bold text-white text-xl">FFL</span>
+              <span className="font-montserrat font-bold text-white text-xl">Flextime Fitness</span>
             </Link>
             <p className="text-gray-400 mb-6">
               Push your limits and achieve your fitness goals with industry-leading facilities and expert guidance.

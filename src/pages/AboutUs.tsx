@@ -14,7 +14,7 @@ const AboutUs = () => {
       <section className="pt-32 pb-16 md:pt-40 md:pb-24 bg-ffl-darker">
         <div className="container mx-auto px-4 md:px-6 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-            ABOUT <span className="text-ffl-orange">FFL</span> GYM
+            ABOUT <span className="text-ffl-orange">Flextime Fitness</span> GYM
           </h1>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
             Discover the story behind our fitness revolution and the mission that drives us to help every member achieve their full potential.
@@ -32,13 +32,13 @@ const AboutUs = () => {
                 FROM PASSION TO <span className="text-ffl-orange">GLOBAL FITNESS</span> COMMUNITY
               </h3>
               <p className="text-gray-300 mb-6">
-                Founded in 2011, FFL Gym began with a simple mission: to create a fitness space that combines premium equipment, expert guidance, and a supportive community. Our founder, Michael Thompson, a former Olympic athlete, wanted to share his passion for fitness and the transformative power it had on his life.
+                Founded in 2011, Flextime Fitness Gym began with a simple mission: to create a fitness space that combines premium equipment, expert guidance, and a supportive community. Our founder, Michael Thompson, a former Olympic athlete, wanted to share his passion for fitness and the transformative power it had on his life.
               </p>
               <p className="text-gray-300 mb-6">
                 What started as a single location has grown into an international network of fitness centers, all maintaining the same commitment to excellence and personal touch that defined our first gym. Over the years, we've helped thousands of members transform their lives, break personal records, and discover the best versions of themselves.
               </p>
               <p className="text-gray-300">
-                Today, FFL Gym continues to lead the fitness industry with innovative programs, cutting-edge equipment, and a team dedicated to your success. Our growth is a testament to our unwavering focus on member results and satisfaction.
+                Today, Flextime Fitness Gym continues to lead the fitness industry with innovative programs, cutting-edge equipment, and a team dedicated to your success. Our growth is a testament to our unwavering focus on member results and satisfaction.
               </p>
             </div>
             <div className="space-y-6">
@@ -165,7 +165,7 @@ const AboutUs = () => {
                 MISSION & <span className="text-ffl-orange">VALUES</span> THAT GUIDE US
               </h3>
               <p className="text-gray-300 mb-6">
-                At FFL Gym, our mission is to empower individuals to transform their lives through fitness. We believe that physical strength builds mental strength, and that everyone deserves access to the tools, knowledge, and support needed to achieve their health and fitness goals.
+                At Flextime Fitness Gym, our mission is to empower individuals to transform their lives through fitness. We believe that physical strength builds mental strength, and that everyone deserves access to the tools, knowledge, and support needed to achieve their health and fitness goals.
               </p>
               <p className="text-gray-300 mb-6">
                 We are guided by a set of core values that shape everything from our training methodologies to how we design our spaces. These principles ensure that we maintain the highest standards and create an environment where members can thrive.
@@ -179,10 +179,10 @@ const AboutUs = () => {
       <section className="py-16 md:py-24 bg-gradient-to-b from-ffl-darker to-ffl-dark">
         <div className="container mx-auto px-4 md:px-6 text-center">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-            JOIN THE <span className="text-ffl-orange">FFL COMMUNITY</span> TODAY
+            JOIN THE <span className="text-ffl-orange">Flextime Fitness COMMUNITY</span> TODAY
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto mb-10">
-            Experience the difference at FFL Gym with our free one-week trial. No obligations, just the opportunity to see why thousands have chosen us for their fitness journey.
+            Experience the difference at Flextime Fitness Gym with our free one-week trial. No obligations, just the opportunity to see why thousands have chosen us for their fitness journey.
           </p>
           <Button className="neuro-button-primary px-8 py-6 text-lg" size="lg">
             Start Your Free Trial <ArrowRight className="ml-2" />

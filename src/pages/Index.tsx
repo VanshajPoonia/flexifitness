@@ -50,7 +50,7 @@ const Index = () => {
                 UNLEASH YOUR POTENTIAL: <span className="text-ffl-orange">PREMIUM FITNESS SERVICES</span> TAILORED FOR YOU
               </h3>
               <p className="max-w-2xl text-gray-300 mt-6">
-                At FFL Gym, we offer personalized fitness services to help you reach your goals.
+                At Flextime Fitness Gym, we offer personalized fitness services to help you reach your goals.
                 From one-on-one training to high-energy classes and recovery sessions, we provide
                 everything you need to succeed in your fitness journey.
               </p>
@@ -194,8 +194,8 @@ const Index = () => {
             READY TO GROW?
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto mb-10">
-            Take the first step toward a stronger, healthier you by claiming your free one-week membership at FFL.
-            Experience our state-of-the-art facilities, join our energizing classes, and see why FFL is the perfect
+            Take the first step toward a stronger, healthier you by claiming your free one-week membership at Flextime Fitness.
+            Experience our state-of-the-art facilities, join our energizing classes, and see why Flextime Fitness is the perfect
             place to reach your fitness goals.
           </p>
           <Button className="neuro-button-primary px-8 py-6 text-lg" size="lg">
