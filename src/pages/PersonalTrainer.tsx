@@ -179,7 +179,7 @@ const PersonalTrainer = () => {
             <div className="neuro-flat p-6">
               <h4 className="text-xl font-semibold mb-3">Do I need to be a gym member to use these services?</h4>
               <p className="text-gray-300">
-                The AI coach is available to all Strength Barracks members as part of their membership. The direct trainer hotline is available to Premium and Standard members, while Basic members can access it for an additional fee.
+                The AI coach is available to all Flextime Fitness members as part of their membership. The direct trainer hotline is available to Premium and Standard members, while Basic members can access it for an additional fee.
               </p>
             </div>
             

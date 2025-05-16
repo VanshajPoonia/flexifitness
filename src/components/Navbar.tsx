@@ -35,7 +35,7 @@ const Navbar = () => {
           <div className="w-8 h-8 bg-ffl-orange rounded-sm flex items-center justify-center">
             <span className="font-montserrat font-bold text-white">S</span>
           </div>
-          <span className="font-montserrat font-bold text-white text-xl">Strength Barracks</span>
+          <span className="font-montserrat font-bold text-white text-xl">Flextime Fitness</span>
         </Link>
 
         {/* Desktop Navigation */}

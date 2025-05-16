@@ -24,7 +24,7 @@ const FAQ = () => {
   const faqs: FAQ[] = [
     {
       question: "What are the gym operating hours?",
-      answer: "Strength Barracks is open 24/7, allowing our members to workout according to their schedule."
+      answer: "Flextime Fitness is open 24/7, allowing our members to workout according to their schedule."
     },
     {
       question: "Do you offer free trial sessions?",
@@ -52,25 +52,25 @@ const FAQ = () => {
     {
       name: "Michael Thompson",
       role: "Member since 2018",
-      content: "Since joining Strength Barracks, I've lost 45 pounds and gained an incredible amount of strength. The trainers here don't just help you exercise; they teach you how to transform your lifestyle.",
+      content: "Since joining Flextime Fitness, I've lost 45 pounds and gained an incredible amount of strength. The trainers here don't just help you exercise; they teach you how to transform your lifestyle.",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974"
     },
     {
       name: "Sarah Johnson",
       role: "Professional Athlete",
-      content: "As a professional athlete, I need a gym that understands high-performance training. Strength Barracks has exceeded my expectations with their state-of-the-art equipment and knowledgeable staff.",
+      content: "As a professional athlete, I need a gym that understands high-performance training. Flextime Fitness has exceeded my expectations with their state-of-the-art equipment and knowledgeable staff.",
       image: "https://images.unsplash.com/photo-1548142813-c348350df52b?q=80&w=1989"
     },
     {
       name: "David Rodriguez",
       role: "Member since 2020",
-      content: "I've tried many gyms over the years, but none compare to Strength Barracks. The community here is amazing - supportive and motivating. I've made great friends while achieving my fitness goals.",
+      content: "I've tried many gyms over the years, but none compare to Flextime Fitness. The community here is amazing - supportive and motivating. I've made great friends while achieving my fitness goals.",
       image: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=2070"
     },
     {
       name: "Emily Nguyen",
       role: "Fitness Enthusiast",
-      content: "The variety of classes at Strength Barracks keeps my workout routine fresh and exciting. From HIIT to yoga, there's always something new to try, and the instructors are top-notch.",
+      content: "The variety of classes at Flextime Fitness keeps my workout routine fresh and exciting. From HIIT to yoga, there's always something new to try, and the instructors are top-notch.",
       image: "https://images.unsplash.com/photo-1499155286265-79a9dc9c6380?q=80&w=2084"
     }
   ];
@@ -90,7 +90,7 @@ const FAQ = () => {
             FREQUENTLY ASKED <span className="text-ffl-orange">QUESTIONS</span>
           </h1>
           <p className="text-lg text-center text-gray-300 max-w-2xl mx-auto">
-            Find answers to common questions about Strength Barracks memberships, facilities, and services.
+            Find answers to common questions about Flextime Fitness memberships, facilities, and services.
           </p>
         </div>
       </div>
