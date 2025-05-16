@@ -58,7 +58,7 @@ const Stats = () => {
             YOUR <span className="text-ffl-orange">FITNESS</span> JOURNEY STARTS HERE
           </h3>
           <p className="max-w-3xl mx-auto text-gray-300 mt-6">
-            At FFL Gym, we are dedicated to helping you unlock your full fitness potential. With
+            At Flextime Fitness Gym, we are dedicated to helping you unlock your full fitness potential. With
             top-tier equipment, expert trainers, and a welcoming community, we provide the
             perfect environment to push your limits and achieve your goals.
           </p>

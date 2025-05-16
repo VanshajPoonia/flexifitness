@@ -44,18 +44,18 @@ const AboutUs = () => {
             <div className="space-y-6">
               <img
                 src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2070"
-                alt="FFL Gym"
+                alt="Flextime Fitness Gym"
                 className="rounded-xl shadow-neuro-flat w-full"
               />
               <div className="grid grid-cols-2 gap-6">
                 <img
                   src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1740"
-                  alt="FFL Gym Interior"
+                  alt="Flextime Fitness Gym Interior"
                   className="rounded-xl shadow-neuro-flat w-full h-48 object-cover"
                 />
                 <img
                   src="https://images.unsplash.com/photo-1603287681836-b174ce5074c2?q=80&w=1744"
-                  alt="FFL Gym Equipment"
+                  alt="Flextime Fitness Gym Equipment"
                   className="rounded-xl shadow-neuro-flat w-full h-48 object-cover"
                 />
               </div>
