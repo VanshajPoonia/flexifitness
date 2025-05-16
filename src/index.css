@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 223 10% 14%;
+    --foreground: 0 0% 100%;
+
+    --card: 223 15% 16%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 223 15% 16%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 16 100% 57%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 223 15% 20%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 223 15% 25%;
+    --muted-foreground: 0 0% 80%;
+
+    --accent: 16 100% 57%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 223 15% 25%;
+    --input: 223 15% 25%;
+    --ring: 16 100% 57%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-ffl-dark text-foreground font-opensans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-montserrat font-bold;
+  }
+}
+
+@layer components {
+  .neuro-flat {
+    @apply shadow-neuro-flat bg-ffl-darker rounded-xl border border-ffl-darker;
+  }
+  
+  .neuro-pressed {
+    @apply shadow-neuro-pressed bg-ffl-darker rounded-xl border border-ffl-darker;
+  }
+  
+  .neuro-button {
+    @apply rounded-lg px-6 py-3 font-semibold transition-all duration-300 hover:scale-105;
+  }
+  
+  .neuro-button-primary {
+    @apply bg-ffl-orange text-white neuro-button hover:shadow-neuro-orange;
+  }
+  
+  .neuro-button-secondary {
+    @apply bg-ffl-darker text-white neuro-button shadow-neuro-flat hover:opacity-90;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold mb-6 md:mb-8;
+  }
+
+  .section-subtitle {
+    @apply text-xl md:text-2xl font-semibold mb-2 text-ffl-orange;
+  }
+  
+  .highlight-text {
+    @apply text-ffl-orange font-semibold;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+}
